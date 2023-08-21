@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,+BAA+B;AAC/B,IAAK;EACJ,MAAM,EAAE,GAAG;EACX,OAAO,EAAE,GAAG;EACZ,MAAE;IACD,MAAM,EAAE,IAAI",
+"sources": ["3-nested_tag.scss"],
+"names": [],
+"file": "tail"
+}

@@ -1,0 +1,8 @@
+/* assigns margin || padding */
+body {
+  margin: 0px;
+  padding: 0px; }
+  body p {
+    margin: 10px; }
+
+/*# sourceMappingURL=tail.map */
