@@ -1,8 +1,8 @@
-/* assigns text color nested_child*/
-body {
-	color: #3D3D3D;
-	> .red {
-		color: #FF0000;
-	}
-}
+/* Nested child declarations */
 
+body {
+  color: #3D3D3D; 
+  > .red {
+    color: #FF0000; 
+  }
+}

@@ -1,7 +1,7 @@
-/* create h* tags using for loop */
-@for $size from 1 through 5 {
-	h#{$size} {
-		font-size: #{$size}px;
-	}
-}
+/* Creates H* tags, where ‘*’ is the size of the font used */
 
+@for $index from 1 through 5 {
+  h#{$index} {
+    font-size: $index + px;
+  }
+}
